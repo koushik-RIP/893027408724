@@ -1,0 +1,54 @@
+nav{
+    background-color: black;
+    padding: 12px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+     gap: 8px;
+     padding-right: 17px;
+     
+    
+    }
+    nav ul a{
+        text-decoration: none;
+         color: white;
+        
+    }
+    nav ul a:hover{
+        color: royalblue;
+    }
+
+    .nm{
+        color: white;
+       padding-right: 700px;
+    }
+    /* Hero Section  */
+    .hnm{
+        font-size: 50px;
+        display: flex;
+        justify-content: center;
+        padding-top: 170px;
+    }
+    .hp{
+        display: flex;
+        justify-content: center;
+        padding-top: 20px;
+    }
+    button{
+     display: flex;
+     justify-content: center;
+    align-items: center;
+     height: 30px;
+     width: 80px;
+     background-color: orange;
+     color: white;
+     
+     
+    }
+    .hbtn{
+        display: flex;
+        justify-content: center;
+        
+    }
